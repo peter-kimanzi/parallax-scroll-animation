@@ -6,3 +6,5 @@ parallax scroll animation
 * HTML
 * CSS
 * JavaScript
+
+## Live website can be viewed here
