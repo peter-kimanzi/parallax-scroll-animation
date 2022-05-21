@@ -5,3 +5,4 @@ parallax scroll animation
 
 * HTML
 * CSS
+* JacaScript
